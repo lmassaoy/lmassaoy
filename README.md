@@ -1,7 +1,7 @@
 # Luis Yamada
 
 
-- 🔭  I’m currently working on Serasa Experian as Solutions Architect
+- 🔭  I’m currently working at Serasa Experian as Solutions Architect
 - 🌱  I’m currently learning Quarkus as deep as possible, because I believe it's a great promisse for microservices over a K8s cluster
 - 👯  I’m looking to collaborate on ...
 - 📫 How to reach me:
