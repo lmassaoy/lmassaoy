@@ -12,6 +12,17 @@ Contacts:
 
 # About me
 
+Technical Expertise:
+- AWS: S3, EC2, EKS, CloudFront, Kinesis (Stream, Firehose, Analytics), Lambda, EMR, RDS, Redshift, Glue, Athena, DynamoDB, SNS, SQS, VPC, IAM, SSM Agent, API Gateway, CloudFormation
+- Hadoop: HDFS, Kafka, Hive, HBase, Spark (Batch/Streaming), Flume, Sqoop, Storm, Nifi
+- Elastic: Elasticsearch, Kibana, LogStash, Beats
+- Backend/API Rest: Springboot, Flask, Quarkus, RabbitMQ
+- Databases: MS SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, Redis, Prometheus, Apache Cassandra
+- Business Intelligence: MS SQL Integration/Reporting Services, MS Power BI, Tableau, Einstein Analytics, Grafana
+- Development: Python, Java, Scala
+- DevOps: Git, Jenkins, Airflow
+- Virtualization/Containers: Docker Hub, Kubernetes, Openshift
+
 I'm interested in many forms of technology:
 - Data Engineering
 - Data Science
