@@ -6,8 +6,11 @@ Contacts:
 
 # About me
 
-Technical Expertise:
-- AWS: S3, EC2, EKS, CloudFront, Kinesis (Stream, Firehose, Analytics), Lambda, EMR, RDS, Redshift, Glue, Athena, DynamoDB, SNS, SQS, VPC, IAM, SSM Agent, API Gateway, CloudFormation
+## Certifications
+[![associate-solutions-architect-icon.jpg](https://i.postimg.cc/q7pKKtcH/associate-solutions-architect-icon.jpg)](https://postimg.cc/xXFqD1F6)
+
+## Technical Expertise
+- AWS: S3, EC2, EKS, CloudFront, Kinesis (Stream, Firehose, Analytics), Lambda, EMR, RDS, Aurora, Redshift, Glue, Athena, DynamoDB, SNS, SQS, VPC, IAM, SSM Agent, API Gateway, ELB, CloudFormation, EKS
 - Hadoop: HDFS, Kafka, Hive, HBase, Spark (Batch/Streaming), Flume, Sqoop, Storm, Nifi
 - Elastic: Elasticsearch, Kibana, LogStash, Beats
 - Backend/API Rest: Springboot, Flask, Quarkus, RabbitMQ
