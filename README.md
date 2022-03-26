@@ -10,14 +10,15 @@ Contacts:
 [![associate-solutions-architect-icon.jpg](https://i.postimg.cc/q7pKKtcH/associate-solutions-architect-icon.jpg)](https://postimg.cc/xXFqD1F6)
 
 ## Technical Expertise
-- AWS: S3, EC2, EKS, CloudFront, Kinesis (Stream, Firehose, Analytics), Lambda, EMR, RDS, Aurora, Redshift, Glue, Athena, DynamoDB, SNS, SQS, VPC, IAM, SSM Agent, API Gateway, ELB, CloudFormation, EKS, Quicksight, ECR, CodeCommit, CodeBuild, CodePipeline, OpenSearch
+- AWS: S3, EC2, EKS, CloudFront, Kinesis (Stream, Firehose, Analytics), Lambda, EMR, RDS, Aurora, Redshift, Glue, Athena, DynamoDB, SNS, SQS, VPC, IAM, SSM, API Gateway, ELB, CloudFormation, EKS, Quicksight, ECR, CodeCommit, CodeBuild, CodePipeline, OpenSearch, Lake Formation
 - Hadoop: HDFS, Kafka, Hive, HBase, Spark (Batch/Streaming), Flume, Sqoop, Storm, Nifi
+- Open Source: Pandas, AWS Data Wrangler, AWS Lambda Powertools, Flask
 - Elastic: Elasticsearch, Kibana, LogStash, Beats
 - Backend/API Rest: Springboot, Flask, Quarkus, RabbitMQ
 - Databases: MS SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, Redis, Prometheus, Apache Cassandra
 - Business Intelligence: MS SQL Integration/Reporting Services, MS Power BI, Tableau, Einstein Analytics, Grafana
 - Development: Python, Java, Scala
-- DevOps: Git, Jenkins, Airflow
+- DevOps: Git, Jenkins, Airflow, Terraform
 - Virtualization/Containers: Docker Hub, Kubernetes, Openshift
 
 I'm interested in many forms of technology:
