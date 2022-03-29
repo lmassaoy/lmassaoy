@@ -18,7 +18,7 @@ Contacts:
 - Databases: MS SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, Redis, Prometheus, Apache Cassandra
 - Business Intelligence: MS SQL Integration/Reporting Services, MS Power BI, Tableau, Einstein Analytics, Grafana
 - Development: Python, Java, Scala
-- DevOps: Git, Jenkins, Airflow, Terraform
+- DevOps: Git, Jenkins, Airflow, Terraform, Splunk
 - Virtualization/Containers: Docker Hub, Kubernetes, Openshift
 
 I'm interested in many forms of technology:
