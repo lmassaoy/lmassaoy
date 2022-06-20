@@ -1,7 +1,7 @@
 # Luis Yamada | Data Architect @ AWS
 
 ## About me
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Jaeger<br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br>🎲 Fun fact: I'm 31 and I still play RPG 😂</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning OpenTelemetry + Jaeger<br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br>🎲 Fun fact: I'm 31 and I still play RPG 😂</p>
 
 ### Certifications
 [![associate-solutions-architect-icon.jpg](https://i.postimg.cc/q7pKKtcH/associate-solutions-architect-icon.jpg)](https://postimg.cc/xXFqD1F6)
