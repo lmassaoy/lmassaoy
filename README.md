@@ -1,7 +1,11 @@
 # Luis Yamada | Data Architect @ AWS
 
 ## About me
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning OpenTelemetry + Jaeger<br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br>🎲 Fun fact: I'm 31 and I still play RPG 😂</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning <a href="https://opentelemetry.io/" target="_blank">
+    <img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" width="150" height="100" alt="gmail logo"  />
+  </a> <b>+</b> <a href="https://www.jaegertracing.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" width="100" height="100" alt="jaeger logo"  />
+  </a><br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br>🎲 Fun fact: I'm 31 and I still play RPG 😂</p>
 
 ### Certifications
 [![associate-solutions-architect-icon.jpg](https://i.postimg.cc/q7pKKtcH/associate-solutions-architect-icon.jpg)](https://postimg.cc/xXFqD1F6)
@@ -48,6 +52,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+
 
 ### Stats
 <div align="center">
