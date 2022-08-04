@@ -16,6 +16,7 @@
 - **Open Source**: Pandas, AWS Data Wrangler, AWS Lambda Powertools, Flask
 - **Elastic**: Elasticsearch, Kibana, LogStash, Beats
 - **Backend/API Rest**: Springboot, Flask, Quarkus, RabbitMQ, gRPC
+- **Frontend**: HTML, CSS, React (Javascript), Figma design
 - **Databases**: MS SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, Redis, Prometheus, Apache Cassandra
 - **Business Intelligence**: MS SQL Integration/Reporting Services, MS Power BI, Tableau, Einstein Analytics, Grafana
 - **Development**: Python, Java, Scala
