@@ -1,7 +1,7 @@
 # Luis Yamada | Data Architect @ AWS
 
 ## About me
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning <a href="https://opentelemetry.io/" target="_blank">
+<p align="left">✨ Creating bugs since 2008 - 10 years working with data projects<br>📚 I'm currently learning <a href="https://opentelemetry.io/" target="_blank">
     <img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" width="150" height="100" alt="gmail logo"  />
   </a> <b>+</b> <a href="https://www.jaegertracing.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" width="100" height="100" alt="jaeger logo"  />
