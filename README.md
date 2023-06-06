@@ -1,8 +1,8 @@
-# Luis Yamada | Data Architect @ AWS
+# Luis Yamada | Sr Staff Data Engineer @ Nubank
 
 ## About me
 <p align="left">✨ Creating bugs since 2008 - 10 years working with data projects<br>
-    <br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br>🎲 Fun fact: I'm 32 and I still play RPG 😂</p>
+    <br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br></p>
 
 ### Certifications
 [![associate-solutions-architect-icon.jpg](https://i.postimg.cc/q7pKKtcH/associate-solutions-architect-icon.jpg)](https://postimg.cc/xXFqD1F6)
