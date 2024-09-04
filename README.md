@@ -1,7 +1,7 @@
 # Luis Yamada | Sr Staff Data Engineer @ Nubank
 
 ## About me
-<p align="left">✨ Creating bugs since 2008 - 10 years working with data projects<br>
+<p align="left">✨ Creating bugs since 2008 - over 10 years working with data projects<br>
     <br>🎯 Goals: become a black-belt Jiu Jitsu fighter 🥋<br></p>
 
 ### Certifications
